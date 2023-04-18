@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1703.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQTProject", "SQTProject\SQTProject.csproj", "{071CBBAF-9EA2-47D3-9840-07D2FC972E04}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQTCode", "Code\SQTCode.csproj", "{1C53370F-88E1-41BF-B6C1-278FE008B9DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{C183D169-7CF7-4ADC-9AEA-F49E5CF1939A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{071CBBAF-9EA2-47D3-9840-07D2FC972E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{071CBBAF-9EA2-47D3-9840-07D2FC972E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{071CBBAF-9EA2-47D3-9840-07D2FC972E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{071CBBAF-9EA2-47D3-9840-07D2FC972E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C53370F-88E1-41BF-B6C1-278FE008B9DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C53370F-88E1-41BF-B6C1-278FE008B9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C53370F-88E1-41BF-B6C1-278FE008B9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C53370F-88E1-41BF-B6C1-278FE008B9DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C183D169-7CF7-4ADC-9AEA-F49E5CF1939A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C183D169-7CF7-4ADC-9AEA-F49E5CF1939A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C183D169-7CF7-4ADC-9AEA-F49E5CF1939A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C183D169-7CF7-4ADC-9AEA-F49E5CF1939A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
